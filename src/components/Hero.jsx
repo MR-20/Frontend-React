@@ -17,13 +17,13 @@ const Hero= ()=>{
                 <p>Also Available On</p>
 
                 <div className="brand-icons">
-                    <img src="/images/amazon.png" alt="amazon-logo" />
-                    <img src="/images/flipkart.png" alt="amazon-logo" />
+                    <img src="https://MR-20.github.io/Frontend-React//images/amazon.png" alt="amazon-logo" />
+                    <img src="https://MR-20.github.io/Frontend-React//images/flipkart.png" alt="amazon-logo" />
                 </div>
             </div>
         </div>
         <div className="hero-image">
-        <img src="/images/shoe_image.png" alt="shoe_image" />
+        <img src="https://MR-20.github.io/Frontend-React//images/shoe_image.png" alt="shoe_image" />
         </div>
 
         </main>
